@@ -1,9 +1,9 @@
 package ru.mirea.gibo_01_18.idrisova.lab2;
 
 public class Author {
-    private String name; // (типа String)
-    private String email; // (типа String)
-    private char gender; // (типа char)
+    private String name; 
+    private String email; 
+    private char gender; 
 
     public Author() {}
 
